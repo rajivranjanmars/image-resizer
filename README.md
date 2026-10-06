@@ -9,4 +9,4 @@ Install Pillow with `python -m pip install Pillow`. From the parent directory, p
 
 ## Author
 
-[rajivranjanmars](https://rajivranjana.in)
+[Rajiv Ranjan](https://rajivranjan.in)
